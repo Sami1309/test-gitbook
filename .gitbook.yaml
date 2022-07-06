@@ -2,7 +2,7 @@ root: ./
 
 ​structure:
   readme: README_CUSTOM.md
-  summary: SUMMARY.md​
+  summary: SUMMARY_CUSTOM.md​
 
 redirects:
   previous/page: new-folder/page.md
