@@ -1,5 +1,5 @@
 # How the turntables
 
-* [Implying](README.md)
+* [Implying](readme)
 
 * [yah I know right](https://github.com/)

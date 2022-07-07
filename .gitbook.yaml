@@ -6,3 +6,4 @@ root: ./docs/
 
 redirects:
   previous/page: new-folder/page.md
+  readme: README.md
